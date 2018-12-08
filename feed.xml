@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<rss version="0.91">
+<channel>
+<title>Updates Feed</title>
+<description>Ueber den Update Feed bleiben sie immer auf dem neusten stand der Herunterfahren-Desktop-ICON-Software</description>
+<language>de</language>
+<link>https://sharkbyteprojects.github.io/Herunterfahren-Desktop-icon-windows-deutsch/</link><image><url>https://sharkbyteprojects.github.io/MatheMGv1installer-webpage/files/picture/picture.svg</url><title>Logo Sharkbyteprojects</title><link>https://sharkbyteprojects.github.io/Herunterfahren-Desktop-icon-windows-deutsch/</link></image>
+</channel>
+
+
+<item><title>Version 2.0 is Released!</title><pubDate>08.12.18</pubDate><description>Sicherheitsupdate zu dem ISSUE #3</description><link>https://github.com/Sharkbyteprojects/Herunterfahren-Desktop-icon-windows-deutsch/releases/download/latest/shutdown.desktop-icon.installer.exe</link></item>
+
+
+</rss>
