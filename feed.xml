@@ -6,6 +6,7 @@
 <language>de</language>
 <link>https://sharkbyteprojects.github.io/Herunterfahren-Desktop-icon-windows-deutsch/</link><image><url>https://sharkbyteprojects.github.io/MatheMGv1installer-webpage/files/picture/picture.svg</url><title>Logo Sharkbyteprojects</title><link>https://sharkbyteprojects.github.io/Herunterfahren-Desktop-icon-windows-deutsch/</link></image>
 </channel>
+  <item> <title>Version 5.0 is Released!</title><link>https://github.com/Sharkbyteprojects/Herunterfahren-Desktop-icon-windows-deutsch/releases/download/gui_dark_light/Shutdown.Desktop.icon.installer.exe</link></item>
   <item><title>Version 4.0 is Released!</title><description>Benoetigt dot net</description><link>https://github.com/Sharkbyteprojects/Herunterfahren-Desktop-icon-windows-deutsch/releases/download/gui-di/shutdown.desktop-icon.installer.exe</link></item>
   <item><title>Version 3.0 is Released!</title><pubDate>13.12.2018</pubDate><description>Update mit GUI (Benoetigt DotNet, wird ueber den installer automatisch geprueft und falls noetig installiert)</description><link>https://github.com/Sharkbyteprojects/Herunterfahren-Desktop-icon-windows-deutsch/releases/download/dni-gui/shutdown.desktop-icon.installer.exe</link></item>
 <item><title>Version 2.0 is Released!</title><pubDate>08.12.18</pubDate><description>Sicherheitsupdate zu dem ISSUE #3</description><link>https://github.com/Sharkbyteprojects/Herunterfahren-Desktop-icon-windows-deutsch/releases/download/latest/shutdown.desktop-icon.installer.exe</link></item>
